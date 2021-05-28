@@ -1,2 +1,2 @@
 # N-Puzzle
- N-Puzzle problem using dfs in python
+Solution  N-Puzzle problem using dfs in python
